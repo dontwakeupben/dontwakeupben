@@ -1,67 +1,44 @@
-<!--
-INSTRUCTIONS:
 
-Create a new repository on GitHub named exactly the same as your username (e.g., https://www.google.com/search?q=github.com/johndoe/johndoe).
-
-Create a file named README.md.
-
-Paste this code into it.
-
-Replace all text inside [brackets] with your real information.
-
-Remove these instruction comments before publishing.
--->
 
 <div align="center">
-<!-- Optional: Add a header image or GIF here. Many devs use a "typing" GIF or a generated banner. -->
-<!-- <img src="YOUR_BANNER_IMAGE_URL" width="100%" /> -->
 
-<h1>Hi there, I'm [Your Name]! 👋</h1>
+<img src="https://tenor.com/view/cat-dance-club-penguin-spin-cat-dance-gif-2019089954052490200" width="100%" />
+
+<h1>Hi there, I'm Ben! 👋</h1>
 
 <h3>🤖 AI Student | 📊 Data Science Enthusiast | 🧠 Deep Learning Researcher</h3>
 
 <p>
-<a href="[Link to your Resume/CV]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-View_Here-darkblue%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-acrobat-reader" alt="Resume" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[your-linkedin-handle]">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ben-angelo/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:[your-email]@gmail.com">
+<a href="mailto:benn.angeloo1@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
-</a>
-<a href="[Your Portfolio Website URL]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-green%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox" alt="Website" />
-</a>
 </p>
 </div>
 
 🧐 About Me
 
-I am currently a [Year] student at [University Name] specializing in Artificial Intelligence. My passion lies in bridging the gap between theoretical research and real-world applications. I love training models, cleaning messy datasets, and deploying ML pipelines.
+I am currently a Year 2 student at Temasek Polytechnic specializing in Diploma of Applied Artificial Intelligence. My passion lies in bridging the gap between theoretical research and real-world applications. I love training models, cleaning messy datasets, and deploying ML pipelines.
 
-🔭 I’m currently working on [Mention your main project, e.g., A RAG-based Chatbot for Legal Docs]
+🔭 I’m currently working on a RAG-based chatbot that helps train people to be certified in spotting those affected by mental health.
 
-🌱 I’m currently learning [e.g., Diffusion Models, MLOps, or Reinforcement Learning]
+🌱 I’m currently learning Transfer learning, RAG, and model fine-tuning.
 
-👯 I’m looking to collaborate on [Open Source AI tools or Paper Implementations]
+💬 Ask me about Python, Computer Vision, Neural Networks and Natural Language Processing.
 
-💬 Ask me about Python, Computer Vision, and Neural Networks
-
-⚡ Fun fact: [Insert a fun AI fact or personal hobby]
+⚡ Fun fact: The first computer vision model I used was Yolov11 :O
 
 🛠️ AI & Tech Stack
 
-<!--
-These are "Shields.io" badges. You can find more at shields.io.
-Feel free to delete the ones you don't know and add the ones you do.
--->
+Languages: Python, Dart, Swift, JavaScript, CSS, HTML
 
-Languages
+Machine Learning & AI: scikit-learn, Tensorflow, Keras, ultralytics
 
-Machine Learning & AI
+Data Visualisation: Knime, Power BI, Python Libraries: matplotlib, seaborn
 
-Tools & Deployment
+Tools & Deployment: Vercel, Streamlit, Ollama, Openwebui, Git, AWS
 
 🚀 Featured AI Projects
 
