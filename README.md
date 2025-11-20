@@ -11,7 +11,7 @@
 <p>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/ben-angelo/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:benn.angeloo1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
