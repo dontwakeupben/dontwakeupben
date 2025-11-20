@@ -6,15 +6,15 @@
 
 <h1>Hi there, I'm Ben! 👋</h1>
 
-<h3>🤖 AI Student | 📊 Data Science Enthusiast | 🧠 Deep Learning Researcher</h3>
+<h3>🤖 AI Student | 🧠 Deep Learning and Data Science Enthusiast</h3>
 
 <p>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/ben-angelo/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:benn.angeloo1@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
 </p>
 </div>
 
@@ -81,11 +81,11 @@ These widgets generate dynamic stats about your coding habits.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dontwakeupben&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-username]&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-username]&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
