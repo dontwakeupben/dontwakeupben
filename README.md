@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://tenor.com/view/cat-dance-club-penguin-spin-cat-dance-gif-2019089954052490200" width="100%" />
+<img src="https://media1.tenor.com/m/HAU_nZjbw9gAAAAC/cat-dance.gif" width="100%" />
 
 <h1>Hi there, I'm Ben! 👋</h1>
 
