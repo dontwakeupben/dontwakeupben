@@ -95,14 +95,6 @@ A brief 1-sentence description. (e.g., A CNN model that detects plant diseases w
 
 📝 Publications & Research (Optional)
 
-<!-- If you don't have papers yet, you can change this to "Blogs" or "Articles" or remove it -->
-
-[Paper Title] - [Conference/Journal Name], [Year]
-
-[Link to PDF/Arxiv]
-
-[Article Title] - Medium/Dev.to [Link to Article]
-
 📊 GitHub Analytics
 
 <!--
@@ -111,7 +103,7 @@ These widgets generate dynamic stats about your coding habits.
 -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dontwakeupben&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
