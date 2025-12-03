@@ -40,54 +40,10 @@ Data Visualisation: Knime, Power BI, Python Libraries: matplotlib, seaborn
 
 Tools & Deployment: Vercel, Streamlit, Ollama, Openwebui, Git, AWS
 
-🚀 Featured AI Projects
-
-Project
-
-Description
-
-Tech Stack
-
-[Project Name 1]
-
-A brief 1-sentence description. (e.g., A CNN model that detects plant diseases with 98% accuracy).
-
-
-
-[Project Name 2]
-
-(e.g., An NLP Sentiment Analysis tool scraping Twitter data in real-time).
-
-
-
-[Project Name 3]
-
-(e.g., A Reinforcement Learning agent that plays Snake).
-
-
-
-<!-- Link to your repositories -->
-
-👉 View all my repositories
-
-📝 Publications & Research (Optional)
-
-📊 GitHub Analytics
-
-<!--
-Replace "your-username" with your actual GitHub username in the URLs below.
-These widgets generate dynamic stats about your coding habits.
--->
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dontwakeupben&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-username]&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
 
-<div align="center">
-<sub>Built with ❤️ by a future AI Engineer.</sub>
-</div>
