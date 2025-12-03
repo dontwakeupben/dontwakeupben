@@ -4,9 +4,9 @@
 
 <img src="https://media1.tenor.com/m/HAU_nZjbw9gAAAAC/cat-dance.gif" width="20%" />
 
-<h1>Hi there, I'm Ben! 👋</h1>
+<h1>Hi there, I'm Ben!</h1>
 
-<h3>🤖 AI Student | 🧠 Deep Learning and Data Science Enthusiast</h3>
+<h3>AI Student | Deep Learning and Data Science Enthusiast</h3>
 
 <p>
 </a>
